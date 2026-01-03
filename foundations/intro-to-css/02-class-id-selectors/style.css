@@ -1,7 +1,7 @@
 /* Add CSS Styling */
 .odd {
     background-color: lightpink;
-    font-family: Verdana, DejaVu Sans, sans-serif;
+    font-family: Verdana, monospace, sans-serif;
 }
 #second {
     color:blue;
