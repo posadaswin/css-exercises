@@ -35,7 +35,17 @@ ul {
   gap: 5px;
 }
 
+a {
+  color: inherit;
+  text-decoration: none;
+}
+
+.footer {
+  background-color: #eeeeee;
+}
+
 .header, .footer {
   display: flex;
   padding: 10px;
+  color: gray; 
 }
