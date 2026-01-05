@@ -43,6 +43,8 @@ body {
 
 ul {
   list-style-type: none;
+  padding: 0;
+  margin: 0;
 }
 
 a {
@@ -54,8 +56,4 @@ a {
 .content {
   display: flex;
   flex: 2 0 auto;
-}
-
-.card-group {
-  padding: 48px;
 }
