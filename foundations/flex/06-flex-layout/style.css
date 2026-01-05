@@ -31,7 +31,7 @@ input {
 ul {
   list-style-type: none;
   display: flex;
-  gap: 5px;
+  gap: 10px;
 }
 
 a {
@@ -46,5 +46,6 @@ a {
 .header, .footer {
   display: flex;
   padding: 10px;
-  color: gray; 
+  color: gray;
+  justify-content: space-between; 
 }
