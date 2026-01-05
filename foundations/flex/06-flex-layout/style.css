@@ -31,6 +31,8 @@ input {
 
 ul {
   list-style-type: none;
+  display: flex;
+  gap: 5px;
 }
 
 .header, .footer {
