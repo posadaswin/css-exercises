@@ -66,3 +66,8 @@ a {
   gap: 48px;
 }
 
+.card {
+  padding: 0;
+  margin: 0;
+  max-width: 250px;
+}
