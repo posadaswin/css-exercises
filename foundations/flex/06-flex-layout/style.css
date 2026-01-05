@@ -32,3 +32,8 @@ input {
 ul {
   list-style-type: none;
 }
+
+.header, .footer {
+  display: flex;
+  padding: 10px;
+}
